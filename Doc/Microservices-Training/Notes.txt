@@ -1,3 +1,0 @@
--- Data
-Information hiding - provide external access to DB through API
-Backward compatability
